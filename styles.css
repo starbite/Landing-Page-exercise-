@@ -128,12 +128,24 @@ h3 {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
+    text-align: left;
+    padding: 80px;
+    padding-bottom: 0px;
+}
+
+.quote p:nth-child(2) {
+    padding: 0px;
+    padding-bottom: 80px;
+    text-align: right;
+    font-weight: 1000;
 }
 
 #cite {
     font-style: normal;
     font-weight: bold;
     text-align: right;
+    padding: 0px;
+    margin-top: 0px;
 }
 
 .call {

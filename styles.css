@@ -90,7 +90,7 @@ h3 {
 }
 
 .section {
-    padding: 10px 80px 20px 80px;
+    padding: 10px 100px 20px 100px;
 }
 
 .section h2 {
@@ -184,8 +184,19 @@ h3 {
 button {
     background-color: #3882F6;
     color:#F9FAF8;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 24px;
+    font-weight: bold;
 }
 
+.call button {
+    border: 3px solid #F9FAF8
+}
+
+.hero button {
+    border: none;
+}
 footer {
     background: #1F2937;
     color: #E5E7EB;

@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
-    /* border: 1px dashed red; */
     font-family: 'Poppins', sans-serif;
     line-height: 1.2em;
 }
@@ -107,10 +106,6 @@ h3 {
     color: #1F2937;
 }
 
-
-
-
-
 .card {
     border: 3px solid #3882F6;
     border-radius: 10px;;
@@ -130,17 +125,17 @@ h3 {
     font-style: italic;
     font-weight: lighter;
     text-align: left;
-    padding: 80px;
+    padding: 120px 80px 0px 80px;
     padding-bottom: 0px;
 }
 
 .quote p:nth-child(2) {
-    padding: 0px;
-    padding-bottom: 80px;
+    padding: 0px 150px 100px 80px;
     text-align: right;
     font-weight: 1000;
     font-style: normal;
     margin-bottom: 0px;
+
 }
 
 #cite {
@@ -152,7 +147,7 @@ h3 {
 }
 
 .action {
-    padding: 40px 80px;
+    padding: 100px 80px;
 }
 
 .call {

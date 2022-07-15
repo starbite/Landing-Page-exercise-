@@ -100,8 +100,9 @@ h3 {
 
 .items {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 .item {
@@ -115,13 +116,14 @@ h3 {
     text-align: center;
     margin: 16px;
     color: #1F2937;
+    width: 150px;
 }
 
 .card {
-    border: 3px solid #3882F6;
-    border-radius: 10px;;
-    height: 100px;
-    width: 100px;
+    border: 4px solid #3882F6;
+    border-radius: 20px;;
+    height: 150px;
+    width: 150px;
 }
 
 .quote {
@@ -178,6 +180,7 @@ h3 {
 
 .call p {
     margin-top: 2px;
+    color: #E5E7EB
 }
 
 

@@ -24,11 +24,22 @@ header {
     background: #1F2937;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding-bottom: 20px;
+    align-items: top;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    gap: 120px;
 
 }
 
+.left {
+    height: auto;
+    max-width: 50%;
+}
+
+.right {
+    height: auto;
+    max-width: 50%;
+}
 .hero p {
     margin-top: 8px;
 }
@@ -75,7 +86,7 @@ h3 {
 }
 
 .hero img {
-    max-width: 200px;
+    max-width: 100%;
 }
 
 .section {

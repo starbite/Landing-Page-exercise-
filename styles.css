@@ -1,0 +1,7 @@
+* {
+    border: 1px dashed red;
+}
+
+.hero img {
+    max-width: 200px;
+}

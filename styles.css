@@ -5,8 +5,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-
 header {
     background: #1F2937;
 }
@@ -48,6 +46,11 @@ h1 {
     font-weight: bold;
 }
 
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
 .hero img {
     max-width: 200px;
 }
@@ -68,15 +71,19 @@ h1 {
 
 .call {
     background-color: #3882F6;
+    color: #F9FAF8
 }
 
 button {
     background-color: #3882F6;
+    color:#F9FAF8;
 }
 
 footer {
     background: #1F2937;
-    color: #E5E7EB
+    color: #E5E7EB;
+    text-align: center;
+    font-size: 16px;
 }
 
 footer a {

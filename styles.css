@@ -5,6 +5,80 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+
+header {
+    background: #1F2937;
+}
+
+.hero {
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.navbar {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+header a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.hero {
+    background: #1F2937;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
 .hero img {
     max-width: 200px;
+}
+
+.quote p {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#cite {
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+}
+
+.call {
+    background-color: #3882F6;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+footer {
+    background: #1F2937;
+    color: #E5E7EB
+}
+
+footer a {
+    color: #E5E7EB;
 }
